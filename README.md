@@ -1,0 +1,1 @@
+Storing my Codewars solutions. 
