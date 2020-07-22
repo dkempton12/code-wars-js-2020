@@ -1,0 +1,1 @@
+Adding two arrays of numerical elements together, using the **reduce** method.
