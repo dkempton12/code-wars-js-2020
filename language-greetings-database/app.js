@@ -17,3 +17,6 @@ const languages = {
 	swedish: 'Valkommen',
 	welsh: 'Croeso'
 };
+
+// setting English as the default fallback
+const greeting = (language) => languages[language] || languages['english'];
