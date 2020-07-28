@@ -1,0 +1,1 @@
+Simple function that calculates the number of liters of water consumed, if average amount is 0.5 liters per hour (rounded to the smallest value).
