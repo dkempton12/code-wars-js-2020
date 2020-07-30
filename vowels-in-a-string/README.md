@@ -1,0 +1,1 @@
+Counting the number of vowels (a, e, i, o, u, no y) in a given string.
