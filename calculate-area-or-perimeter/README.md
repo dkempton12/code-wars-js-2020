@@ -1,0 +1,1 @@
+This function calculates the area or perimeter of two given numeric values. If length === width, the function will calculate its area, otherwise the perimeter will be calculated. 
