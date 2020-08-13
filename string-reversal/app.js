@@ -1,6 +1,9 @@
 function reverseWords(str) {
-  return str
+  const reversed = 
     .split("")
     .reverse()
     .join("");
+    return reversed;
 }
+
+reverseWords('hello how are you doing');
