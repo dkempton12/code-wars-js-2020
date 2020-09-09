@@ -1,6 +1,4 @@
-function returnEvenChars(string) {
-  const evenChars = string
-    .split('')
-    .map((letter, index) => letter[index] % 2 !== 0);
-  return evenChars;
-}
+const returnEvenChars = (string) =>
+  string.length < 2 || string.length > 100
+    ? 'invalid string'
+    : string.split('').filter((x, i) => i % 2);
