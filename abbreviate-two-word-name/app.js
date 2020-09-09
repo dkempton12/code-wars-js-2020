@@ -4,3 +4,7 @@ const abbreviateName = (name) => {
     .map((letter) => letter[0].toUpperCase())
     .join('.');
 };
+
+const name = 'Danny Kempton';
+
+abbreviateName(name);
