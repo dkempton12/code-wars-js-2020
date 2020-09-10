@@ -5,3 +5,5 @@ function arr(n) {
   }
   return newArray;
 }
+
+arr(10);
