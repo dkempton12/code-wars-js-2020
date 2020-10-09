@@ -7,5 +7,6 @@ const multiTable = (number) => {
   return table;
 };
 
-multiTable(10);
-multiTable(5);
+// multiTable(10);
+// multiTable(5);
+// multiTable(2000);
